@@ -1,3 +1,6 @@
+2.2.4
+- fix: Warning: The Python script has left several classes in memory that we couldn't clean up.
+
 2.2.3
 - add: Start stream time info
 
